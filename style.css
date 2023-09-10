@@ -1,0 +1,107 @@
+*{
+    margin: o;
+    padding: o;
+    scroll-behavior: smooth;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.father{
+    background-image: url(./mane\ image\ 1.jpg);
+    height:600px;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+nav a{
+    text-decoration: none;
+    margin-left: 20px;
+    padding: 5px;
+    color: white;
+    background-color: rgb(63, 245, 245);
+    
+}
+nav{
+    text-align: center;
+    padding-top:80px;
+}
+.manu h1{
+    text-align: center;
+    color: gold;
+
+}
+[type="search"]{
+    margin-left:528px;
+}
+.ren{
+    color:blue;
+    text-align: center;
+}
+.rent{
+    color: gold;
+    text-align: center;
+}
+.top img{
+    width: 400px;
+    height:400px;
+}
+
+.mother{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    padding-top: 50px;
+    margin-left: 20px;
+    /* box-shadow: -5px 5px 10px aqua, 5px -5px 10px aqua; */
+}.tope img{
+    width: 400px;
+    height:400px;
+    box-shadow:;
+}
+.topen img{
+    width: 400px;
+    height:400px;
+}
+.mother a{
+    text-decoration: none;
+    padding:-14px;
+    background-color: aqua;
+    border-radius:5px;
+    margin-top: 3px;
+
+}
+.mother{
+    padding: 10px;
+    margin: 10px;
+}
+.top{
+    box-shadow: 2px 2px 2px 2px blue;
+    margin-right: 20px;
+}
+.tope{
+    box-shadow: 2px 2px 2px 2px blue;
+    margin-right: 20px;
+
+}
+.topen{
+    box-shadow: 2px 2px 2px 2px blue;
+    margin-right: 20px;
+
+}
+.top {
+    text-align: center;
+    color:forestgreen;
+}
+.tope{
+    text-align: center;
+    color:forestgreen;
+}
+.topen{
+    text-align: center;
+    color:forestgreen;
+}
+.icon img{
+    margin-left:680px;
+    margin-top: -55px;
+}
